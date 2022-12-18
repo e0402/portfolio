@@ -1,10 +1,10 @@
-# ARTrospective
+# Portfolio website
 
-![image](/images/readme-image.jpeg)
+![image](/images/readme-screenshot.jpeg)
 
 ## Description
 
-My portfolio:
+My portfolio website: https://e0402portfolio.netlify.app/
 
 ## Built With
 
