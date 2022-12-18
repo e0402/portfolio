@@ -1,6 +1,6 @@
 body {
   color: rgb(255, 255, 255);
-  background: rgb(19, 19, 19);
+  background: rgb(16, 24, 36);
   margin: 0;
 }
 
@@ -72,7 +72,7 @@ main section a {
 }
 
 .projects-section {
-  background: rgb(50, 50, 50);
+  background: rgb(39, 39, 39);
   padding: 0 30px 20% 30px;
 }
 
