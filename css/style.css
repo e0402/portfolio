@@ -93,6 +93,11 @@ p {
   margin-bottom: 35px;
 }
 
+.margin-top {
+  display: inline-block;
+  margin-top: 20px;
+}
+
 /*Hover effects*/
 .hover:hover,
 .hover-two:hover {
